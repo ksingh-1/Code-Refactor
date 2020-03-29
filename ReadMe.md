@@ -5,4 +5,6 @@ ReadMe
 
 ### Code Refactoring
 
+Added better descriptions and improved accessibility for all! New changes are added in comments as well.
+
 I'm working on this code to make it better and easier to use!
